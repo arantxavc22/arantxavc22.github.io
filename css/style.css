@@ -53,7 +53,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #F14E95;
+  color: #b8d1ae;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #F14E95;
+  background: #b8d1ae;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #F14E95;
+  background: #b8d1ae;
 }
 
 ::selection {
   color: #fff;
-  background: #F14E95;
+  background: #b8d1ae;
 }
 
 @media (min-width: 992px) {
@@ -201,7 +201,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a {
-  color: #F14E95;
+  color: #b8d1ae;
 }
 .fh5co-nav ul li.btn-cta a span {
   background: #fff;
@@ -773,7 +773,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #F14E95;
+  color: #b8d1ae;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -792,7 +792,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #F14E95;
+  color: #b8d1ae;
   position: absolute;
   left: 0;
   top: .05em;
@@ -1072,7 +1072,7 @@ form label {
   font-size: 20px;
   background: #fff;
   padding: 20px;
-  color: #F14E95;
+  color: #b8d1ae;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1095,7 +1095,7 @@ form label {
 }
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
-  color: #F14E95;
+  color: #b8d1ae;
   font-size: 30px;
 }
 .couple-half .groom, .couple-half .bride {
@@ -1245,7 +1245,7 @@ form label {
   display: block;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide span a.twitter {
-  color: #F14E95;
+  color: #b8d1ae;
   font-weight: 300;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide figure {
@@ -1449,7 +1449,7 @@ form label {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #F14E95;
+  border: 2px solid #b8d1ae;
 }
 
 #fh5co-offcanvas {
@@ -1705,9 +1705,9 @@ form label {
 }
 
 .btn-primary {
-  background: #F14E95;
+  background: #b8d1ae;
   color: #fff;
-  border: 2px solid #F14E95;
+  border: 2px solid #b8d1ae;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #f366a3 !important;
@@ -1715,11 +1715,11 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #F14E95;
-  border: 2px solid #F14E95;
+  color: #b8d1ae;
+  border: 2px solid #b8d1ae;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #F14E95;
+  background: #b8d1ae;
   color: #fff;
 }
 
@@ -1849,7 +1849,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #F14E95;
+  border-color: #b8d1ae;
 }
 
 .row-pb-md {
